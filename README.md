@@ -11,7 +11,13 @@
 </p>
 
 ---
+# 🚀 Live Demo
 
+| Resource | Link |
+|----------|------|
+| 🎥 Demo Video | https://www.youtube.com/watch?v=SGG4QXH625I |
+| 💻 GitHub Repository | YOUR_GITHUB_REPOSITORY |
+| 📄 Project Report | CyberShield_AI_Report.pdf |
 ## 📌 Overview
 
 CyberShield AI is an enterprise-grade AI-powered Cyber Resilience Platform designed to strengthen the security posture of Critical National Infrastructure (CNI).
